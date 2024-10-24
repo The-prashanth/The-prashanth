@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Prashanth
 -  I’m interested in programming
 - 🌱 I’m currently learning DSA
-- 'you can reach me out on insta through the id @prashanth-g0ud
+- 'you can reach me out on Linked in through thhis link www.linkedin.com/in/prashanth-bathini-1b12a0292
 
 
 <!---
